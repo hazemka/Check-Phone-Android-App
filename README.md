@@ -1,5 +1,7 @@
 # Check-Phone-Android-App
 
+Download app : shorturl.at/dwyIV
+
 It is an application to test the smartphone through a number of tests such as:
 
 Wifi , Bluetooth , Charing , Vibration ... and more.
